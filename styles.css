@@ -1,0 +1,55 @@
+body {
+	background: #BDBDBD;
+	margin: 0;
+}
+
+header {
+	padding: 10px;
+	background: white;
+}
+
+header h1{
+	margin: 0
+}
+
+div.post {
+	margin-top: 50px;
+}
+
+div.post img {
+	width: 100%;
+}
+
+div.container {
+	width: 600px;
+	margin: auto;
+}
+
+div.post h2, div.post p {
+	padding: 18px;
+	margin: 0;
+}
+
+div.post{
+	display: inline-block;
+}
+	
+
+
+.post-header {
+	float: left;
+}
+
+.photo-date {
+
+	float: right;
+	padding-top: 14px;
+	padding-right: 10px;
+	color: gray;
+}
+
+.margen {
+	margin: 50px;
+	background: white;
+
+}
